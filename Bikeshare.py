@@ -26,7 +26,7 @@ def get_filters():
             break
         else:
             print("\n Oops, Please enter a valid city name")    
-
+#query the suggested input if wrong
 
     #TO DO: get user input for month (all, january, february, ... , june or none)
     while True:
