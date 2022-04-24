@@ -7,7 +7,7 @@
 bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare data used to understand bikeshare usage pattern using python. 
 
 ### Files used
 Include the files used
