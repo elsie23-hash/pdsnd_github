@@ -45,7 +45,7 @@ def get_filters():
         else:
             print("\n That seems not to be a known day, Please enter a valid day")    
     
-    print('-'*40)
+    print('-'*50)
     return city, month, day
 
 
