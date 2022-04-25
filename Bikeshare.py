@@ -25,8 +25,16 @@ def get_filters():
         if city in cities:
             break
         else:
+<<<<<<< .merge_file_a19464
             print("\n Oops, Please enter a valid city name")    
 #query the suggested input if wrong
+||||||| .merge_file_a12948
+            print("\n Oops, Please enter a valid city name")    
+
+=======
+            print("\n Oops wrong input!, Please enter a valid city name")    
+
+>>>>>>> .merge_file_a06528
 
     #TO DO: get user input for month (all, january, february, ... , june or none)
     while True:
@@ -47,7 +55,7 @@ def get_filters():
         else:
             print("\n That seems not to be a known day, Please enter a valid day")    
     
-    print('-'*40)
+    print('-'*50)
     return city, month, day
 
 
