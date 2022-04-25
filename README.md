@@ -10,8 +10,11 @@ bikeshare.py
 Bikeshare data used to understand bikeshare usage pattern using python. 
 
 ### Files used
-Include the files used
+Washington.csv
+New_york_city.csv
+Chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://stackoverflow.com/questions/21786893/git-made-a-push-to-the-wrong-repository-how-to-remove
+https://www.toolsqa.com/git/git-push/
